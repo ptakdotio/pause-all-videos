@@ -1,6 +1,6 @@
 {
   "name": "Pause All Videos",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "description": "Pauses all HTML5 videos in all tabs",
 
@@ -16,5 +16,11 @@
 
   "background": {
     "service_worker": "background.js"
+  },
+
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "128": "icon128.png"
   }
 }
