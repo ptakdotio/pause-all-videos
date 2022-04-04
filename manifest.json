@@ -1,0 +1,20 @@
+{
+  "name": "Pause All Videos",
+  "version": "0.1",
+  "manifest_version": 3,
+  "description": "Pauses all HTML5 videos in all tabs",
+
+  "action": {},
+  "permissions": [
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*/",
+    "http://*/"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}
