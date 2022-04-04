@@ -2,7 +2,7 @@
   "name": "Pause All Videos",
   "version": "1.1",
   "manifest_version": 3,
-  "description": "Pauses all HTML5 videos in all tabs",
+  "description": "Pauses all videos in all tabs",
 
   "action": {},
   "permissions": [
