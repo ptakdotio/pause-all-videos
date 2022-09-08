@@ -1,2 +1,5 @@
+
 # PauseAllVideos
-A Chrome extension that pauses all videos
+
+_A Chrome extension that pauses all videos_
+
