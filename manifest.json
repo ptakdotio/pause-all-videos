@@ -1,8 +1,11 @@
 {
-  "name": "Pause All Videos",
-  "version": "0.1",
   "manifest_version": 3,
+
+  "name": "Pause All Videos",
   "description": "Pauses all videos in all tabs",
+  "author": "Christopher Ptak",
+
+  "version": "0.1",
 
   "action": {},
   "permissions": [
