@@ -1,4 +1,4 @@
-# PauseAllVideos
+# Pause All Videos
 
 ## What is this?
 

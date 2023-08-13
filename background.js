@@ -1,6 +1,4 @@
-
-function runPauseScriptInTab(tab)
-{
+function runPauseScriptInTab(tab) {
     // Only run in HTTP or HTTPS pages
     if (tab.url.startsWith('http://') || tab.url.startsWith('https://')) {
         // Execute the pause script
@@ -18,4 +16,3 @@ chrome.action.onClicked.addListener(function () {
         tabs.forEach(runPauseScriptInTab);
     }); 
 });
-

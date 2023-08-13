@@ -1,4 +1,3 @@
-
 {
     let videos = document.querySelectorAll('video');
 
@@ -6,4 +5,3 @@
         video.pause();
     });
 }
-

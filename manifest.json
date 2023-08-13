@@ -5,7 +5,7 @@
   "description": "Pauses all videos in all tabs",
   "author": "Christopher Ptak",
 
-  "version": "0.1",
+  "version": "0.2",
 
   "action": {},
   "permissions": [
